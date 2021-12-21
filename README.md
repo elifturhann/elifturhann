@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-# <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m elifturhann</h1>
+# <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Elif Turhan </h1>
 <h3 align="center">I’m elifturhann from Turkey, I am a passionate fullstack developer, excited to learn new things, interested in writing new codes.</h3>
 ## Skills and Experience
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
@@ -14,8 +14,9 @@
 ## Github Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elifturhann&label=Profile%20views&color=0e75b6&style=flat" alt=“elifturhann” /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifturhann&show_icons=true&locale=en&layout=compact" alt=“elifturhann” /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elifturhann&show_icons=true&locale=en" alt="zuberman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elifturhann&show_icons=true&locale=en" alt="elifturhann" /></p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=elifturhann)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Other ...
 <p>:computer: I'm currently working on Virtual Health Care Web App</p>
 <p>:seedling: when I am free learning DJANGO.</p>
@@ -25,24 +26,6 @@
 ## Reach Me
 <a href="https://linkedin.com/in/XXX” target="_blank"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="40" height="40"/> </a>
 
-(59 kB)
-https://i.imgur.com/iXuL1HG.png
-
-(292 kB)
-https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
-
-(18 kB)
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
-
-(19 kB)
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png
-
-(10 kB)
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
-
-white_check_mark
-eyes
-raised_hands
 
 
 
