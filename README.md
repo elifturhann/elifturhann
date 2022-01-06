@@ -19,15 +19,14 @@
 
 ## Other ...
 <p>:computer: I'm currently studying in the Clarusway.</p>
-<p>:seedling: when I am free always searching something new.</p>
+<p>:seedling: When I am free always searching something new.</p>
 ## Languages
 <br>
 <a href=  target="_blank"> <img src="https://www.interflag.gr/1830-thickbox_default/flag-of-turkey.jpg" alt="flag-tr" width="40" height="40"/> </a>
 <br>
 <a href=  target="_blank"> <img src="https://th.bing.com/th/id/OIP.negtMnvm6KcK8VhtCm3MzQHaD_?w=292&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="flag-us" width="40" height="40"/> </a>
 <br>
-<a href=  target="_blank"> <img src="https://th.bing.com/th/id/OIP.Lha0138JIz6bqtxADMUFgAHaEh?w=287&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="flag-fin" width="40" height="40"/> </a>
-
+<a href=  target="_blank"> <img src="https://th.bing.com/th/id/OIP.Lha0138JIz6bqtxADMUFgAHaEh?w=287&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="flag-fin" width="40" height="40"/> </a> <br>
 ## Reach Me
 <a href="https://www.linkedin.com/in/elif-sevval-turhan-377247228/” target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" alt="linkedin" width="40" height="40"/> </a>
 
