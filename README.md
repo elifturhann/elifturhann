@@ -21,7 +21,7 @@
 <p>:computer: I'm currently studying in the Clarusway.</p>
 <p>:seedling: when I am free always searching something new.</p>
 ## Languages
-<p>:flag-tr: Turkish</p>
+<a href=  target="_blank"> <img src="https://www.interflag.gr/1830-thickbox_default/flag-of-turkey.jpg" alt="flag-tr" width="40" height="40"/> </a>
 <p>:us: English</p>
 ## Reach Me
 <a href="https://www.linkedin.com/in/elif-sevval-turhan-377247228/” target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" alt="linkedin" width="40" height="40"/> </a>
