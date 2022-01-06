@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 # <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Elif Turhan </h1>
-<h3 align="center">I’m elifturhann from Turkey, I am a passionate fullstack developer, excited to learn new things, interested in writing new codes.</h3>
+<h3 align="center">I’m elifturhann from Finland, I am a passionate fullstack developer, excited to learn new things, interested in writing new codes.</h3>
 ## Skills and Experience
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
@@ -18,8 +18,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=elifturhann)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Other ...
-<p>:computer: I'm currently working on Virtual Health Care Web App</p>
-<p>:seedling: when I am free learning DJANGO.</p>
+<p>:computer: I'm currently studying in the Clarusway.</p>
+<p>:seedling: when I am free always searching something new.</p>
 ## Languages
 <p>:flag-tr: Turkish</p>
 <p>:us: English</p>
