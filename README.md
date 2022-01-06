@@ -24,7 +24,7 @@
 <p>:flag-tr: Turkish</p>
 <p>:us: English</p>
 ## Reach Me
-<a href="https://linkedin.com/in/XXX” target="_blank"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://linkedin.com/in/XXX” target="_blank"> <img src="https://www.linkedin.com/in/elif-sevval-turhan-377247228/" alt="linkedin" width="40" height="40"/> </a>
 
 
 
