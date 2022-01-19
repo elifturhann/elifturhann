@@ -30,7 +30,8 @@
 ## Reach Me
 <a href="https://www.linkedin.com/in/elif-sevval-turhan-377247228/” target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" alt="linkedin" width="40" height="40"/> </a>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/elifturhann/elifturhann/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
