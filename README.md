@@ -9,9 +9,8 @@
 ## Github Stats
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elifturhann&show_icons=true&locale=en" alt="elifturhann" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifturhann&" alt="elifturhann" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=elifturhann&" alt="elifturhann" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifturhann&show_icons=true&locale=en&layout=compact" alt="elifturhann" /></p>
-<br></br>
 <br></br>
 
 ## Languages
@@ -19,10 +18,9 @@
   <img src="https://cdn-icons-png.flaticon.com/512/6608/6608492.png" width="50">
    <img src="https://cdn-icons-png.flaticon.com/512/6608/6608471.png" width="50">
    <img src="https://cdn-icons-png.flaticon.com/512/6608/6608505.png" width="50">
-  <br><br>
+  <br>
 </p>
   
-
  ![snake gif](https://github.com/elifturhann/elifturhann/blob/output/github-contribution-grid-snake.gif)
                 
 <p align="center">
