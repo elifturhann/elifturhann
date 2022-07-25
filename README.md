@@ -10,7 +10,7 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elifturhann&show_icons=true&locale=en" alt="elifturhann" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifturhann&" alt="elifturhann" /></p>
-<p><img align="center" margin-left='auto' margin-right='auto' src="https://github-readme-stats.vercel.app/api/top-langs?username=elifturhann&show_icons=true&locale=en&layout=compact" alt="elifturhann" /></p>
+<p><img style= "align="center" margin-left='auto' margin-right='auto'" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifturhann&show_icons=true&locale=en&layout=compact" alt="elifturhann" /></p>
 <br>
 
 ## Languages
