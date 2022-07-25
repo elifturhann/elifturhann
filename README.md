@@ -8,13 +8,13 @@
 
 ## Github Stats
 <br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elifturhann&show_icons=true&locale=en" alt="elifturhann" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elifturhann&show_icons=true&locale=en" alt="elifturhann" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifturhann&" alt="elifturhann" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifturhann&show_icons=true&locale=en&layout=compact" alt="elifturhann" /></p>
 <br></br>
 <br></br>
-## Languages
 
+## Languages
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/6608/6608492.png" width="50">
    <img src="https://cdn-icons-png.flaticon.com/512/6608/6608471.png" width="50">
@@ -24,9 +24,7 @@
   
 
  ![snake gif](https://github.com/elifturhann/elifturhann/blob/output/github-contribution-grid-snake.gif)
-
-                    ![snake svg](https://github.com/elifturhann/elifturhann/blob/output/github-contribution-grid-snake.svg)
-                    
+                
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
