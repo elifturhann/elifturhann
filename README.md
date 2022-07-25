@@ -9,9 +9,9 @@
 ## Github Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifturhann&show_icons=true&locale=en&layout=compact" alt="elifturhann" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elifturhann&show_icons=true&locale=en" alt="elifturhann" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elifturhann&show_icons=true&locale=en" alt="elifturhann" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=elifturhann&" alt="elifturhann" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifturhann&" alt="elifturhann" /></p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=elifturhann)](https://github.com/ryo-ma/github-profile-trophy)
 
 
