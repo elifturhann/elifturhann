@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 # <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Elif Turhan </h1>
-<h3 align="center">I’m elifturhann from Finland, I am a passionate fullstack developer, excited to learn new things, interested in writing new codes.</h3>
+<h3 align="center">I’m Elif from Finland, I am a passionate full-stack developer, excited to learn new things, and interested in writing new codes.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elifturhann&label=Profile%20views&color=0e75b6&style=flat" alt="elifturhann" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elifturhann" alt="elifturhann" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +21,7 @@
   <br>
 </p>
   
- ![snake gif](https://github.com/elifturhann/elifturhann/blob/output/github-contribution-grid-snake.gif)
+ ![Snake animation](https://github.com/elifturhann/elifturhann/blob/output/github-contribution-grid-snake.svg)
                 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
